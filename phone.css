@@ -1,0 +1,131 @@
+.main {
+    height: auto;
+    width: 100%;
+    flex-direction: column;
+}
+.left {
+    height: auto;
+    width: 100%;
+}
+.header {
+    height: 600px;
+    width: 100%;
+}
+.nav {
+    height: auto;
+   flex-direction: column;
+   align-items: center;
+ }
+ .logo {
+    margin-left: 0px;
+    margin-top: 5px;
+}
+.list-items {
+    margin-right: 0px;    
+    font-size: 12px;
+}
+.list-items li:nth-child(6) {
+    height: 25px;
+    width: 80px;
+    background-color: #05d8cd;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 8px;
+    margin-top: -4px;
+    font-size: 10px;
+}
+.head {
+   flex-direction: column;
+   text-align: center;
+}
+.left-text {
+    margin-left: 0px;
+}
+.left-text h1 {
+    font-size: 40px;
+    line-height: 40px;
+}
+.left-text p {
+    font-size: 15px;
+    margin-top: 5px;
+}
+.left-text button {
+    height: 40px;
+    width: 180px;
+    margin-top: 15px;
+    font-size: 18px;
+    border-radius: 50px;
+}
+#img1 {
+    height: 250px;
+    width: 250px;
+    margin-right: 0px;
+}
+/* --- middle part */
+.mid-section {
+    height: auto;
+    width: 100%;
+    flex-direction: column;
+}
+.mid-section img {
+    height: 250px;
+    width: 350px;
+}
+.mid-right {
+    height: auto;
+    width: 100%;
+    padding-left: 0;
+   text-align: center;
+}
+.mid-right h2 {
+    font-size: 40px;
+}
+.mid-right h2 br {
+    content: '';
+}
+.mid-right h3 {
+    margin-left: 0px;
+    font-size: 15px;
+    margin-top: 10px;
+}
+.mid-right p {
+    margin-top: 5px;
+    margin-left: 0px;
+    font-size: 13px;
+}
+/* --- footer part --- */
+.footer h3 {
+    font-size: 30px;
+}
+.cards {
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+    padding-bottom: 50px;
+}
+.card {
+    height: 180px;
+    width: 70%;
+    margin-top: 20px;
+    text-align: center;
+}
+.images {
+    height: 70px;
+    width: 70px;
+    margin-left: 35%;
+}
+.card img {
+    height: 35px;
+    width: 35px;
+}
+.card h4 {
+    font-size: 25px;
+}
+.card p {
+    font-size: 13px;
+}
+/* --- right section--- */
+.right {
+    height: auto;
+    width: 100%;
+}
