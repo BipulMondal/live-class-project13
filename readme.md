@@ -7,7 +7,9 @@ This Project have two different project side by side.
 In this project I used some card animations.
 This project is also available in Netlify.
 
-[Netlify Link]()
+[Netlify Link](https://app.netlify.com/sites/project13-live-class/overview)
+***
 
+![badge](https://img.shields.io/badge/Live--Class-Project13-blue)
 
-![badge]()
+>Let's Check This
